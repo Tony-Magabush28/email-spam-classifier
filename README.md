@@ -7,7 +7,7 @@ Portfolio: https://my-flask-portfolio.onrender.com
 ---
 
 ## 📧 Email Spam Classifier App
-The Email Spam Classifier App is an interactive web application built with Streamlit that predicts whether an email or SMS message is spam or not.
+The Email Spam Classifier App is an interactive Streamlit web application that predicts whether an email or SMS message is spam.
 
 ---
 
@@ -26,8 +26,8 @@ This project is perfect for showcasing machine learning, NLP, and full-stack dat
 
 ## 🧠 Problem Statement
 Spam messages cause fraud, privacy breaches, and poor user experience.
-This project aims to automatically detect spam messages using supervised
-machine learning.
+This project aims to detect spam messages using supervised
+machine learning automatically.
 
 ---
 
@@ -83,7 +83,7 @@ spam-classifier/
 - Naive Bayes	97.48%	0.98
 - Logistic Regression	94.86%	0.98
 
-Metrics may vary depending on dataset and preprocessing.
+Metrics may vary depending on the dataset and preprocessing.
 
 ---
 
@@ -95,7 +95,7 @@ Metrics may vary depending on dataset and preprocessing.
 ## 📥 Download Models
 - Naive Bayes Model: nb_model.joblib
 - Logistic Regression Model: lr_model.joblib
-- TF-IDF Vectorizer: vectorizer.joblib
+- TF-IDF Vectorizer: vectorizer. joblib
 
 ---
 
