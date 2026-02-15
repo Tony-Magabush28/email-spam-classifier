@@ -1,53 +1,57 @@
-## 👨‍💻 Author
-Anthony Sergo
-Machine Learning & Data Enthusiast
-LinkedIn: https://www.linkedin.com/in/anthony-sergo1
-GitHub: https://github.com/Tony-Magabush28
-Portfolio: https://my-flask-portfolio.onrender.com
+# 📧 Email Spam Classifier
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.24-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-Educational-green)](#license)
+
 ---
 
-## 📧 Email Spam Classifier App
-The Email Spam Classifier App is an interactive Streamlit web application that predicts whether an email or SMS message is spam.
+## 👨‍💻 Author
+**Anthony Sergo**  
+Machine Learning & Data Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/anthony-sergo1) | [GitHub](https://github.com/Tony-Magabush28) | [Portfolio](https://my-flask-portfolio.onrender.com)  
 
 ---
 
 ## 🚀 Project Overview
-This project builds an end-to-end machine learning pipeline for spam detection. It demonstrates a complete ML workflow:
-  - Data preprocessing & cleaning
-  - TF-IDF feature extraction
-  - Model training & comparison (Naive Bayes vs Logistic Regression)
-  - Model evaluation (accuracy, confusion matrix, ROC curve)
-  - Interactive predictions with probability visualization
-  - Downloadable trained models and vectorizer for reuse
+The Email Spam Classifier App is an interactive **Streamlit** web application that predicts whether an email or SMS message is spam.  
 
-This project is perfect for showcasing machine learning, NLP, and full-stack data science skills to recruiters.
+It demonstrates a complete **machine learning workflow**, including:
+
+- Data preprocessing & cleaning  
+- TF-IDF feature extraction  
+- Model training & comparison (Naive Bayes vs Logistic Regression)  
+- Model evaluation (accuracy, confusion matrix, ROC curve)  
+- Interactive predictions with probability visualization  
+- Downloadable trained models and vectorizer for reuse  
+
+This project is ideal for showcasing **ML, NLP, and full-stack data science skills** to recruiters.
 
 ---
 
 ## 🧠 Problem Statement
-Spam messages cause fraud, privacy breaches, and poor user experience.
-This project aims to detect spam messages using supervised
-machine learning automatically.
+Spam messages can cause fraud, privacy breaches, and a poor user experience.  
+This project aims to **automatically detect spam messages** using supervised machine learning.
 
 ---
 
 ## 🔥 Features
-- Interactive Dashboard with Tabs: Home / Predict / About
-- Multiple Algorithms Comparison: Naive Bayes vs Logistic Regression
-- Model Evaluation: Accuracy, confusion matrix, and ROC curves
-- Interactive Prediction: Enter messages and get predictions with confidence scores
-- Downloadable Models: Save pre-trained models and TF-IDF vectorizer for deployment
-- Clean, Professional UI using Streamlit
+- Interactive dashboard with tabs: **Home / Predict / About**  
+- Multiple algorithm comparison: **Naive Bayes vs Logistic Regression**  
+- Model evaluation: accuracy, confusion matrix, and ROC curves  
+- Interactive prediction with confidence scores  
+- Downloadable pre-trained models and TF-IDF vectorizer  
+- Clean, professional UI using **Streamlit**
 
 ---
 
 ## 🛠 Technologies Used
-- Python – Core programming
-- Pandas & NumPy – Data manipulation
-- Scikit-learn – Machine learning algorithms (Naive Bayes, Logistic Regression)
-- Streamlit – Interactive dashboard and UI
-- Matplotlib – Data visualization (confusion matrix, ROC, probability bars)
-- Joblib – Save and load trained models
+- **Python** – Core programming  
+- **Pandas & NumPy** – Data manipulation  
+- **Scikit-learn** – ML algorithms (Naive Bayes, Logistic Regression)  
+- **Streamlit** – Interactive dashboard and UI  
+- **Matplotlib** – Visualizations (confusion matrix, ROC, probability charts)  
+- **Joblib** – Save and load trained models  
 
 ---
 
@@ -61,45 +65,46 @@ spam-classifier/
 ├── requirements.txt
 └── README.md
 
+
 ---
 
 ## 📊 Screenshots
-- Home Tab: Model Comparison & ROC Curves
-- Predict Tab: Interactive Message Classification
+- **Home Tab:** Model comparison & ROC curves  
+- **Predict Tab:** Interactive message classification  
 
 ---
 
-## 🧠 Usage 
-1. Go to the Predict tab
-2. Select a model (Naive Bayes or Logistic Regression)
-3. Enter a message and click Predict
-4. View the prediction result, confidence score, and probability chart
-5. Download the trained model and TF-IDF vectorizer if needed
+## 🧠 Usage
+1. Go to the **Predict** tab  
+2. Select a model (**Naive Bayes** or **Logistic Regression**)  
+3. Enter a message and click **Predict**  
+4. View the prediction result, confidence score, and probability chart  
+5. Optionally, download the trained model and TF-IDF vectorizer  
 
 ---
 
 ## 📈 Model Performance
-# Model	Accuracy	AUC
-- Naive Bayes	97.48%	0.98
-- Logistic Regression	94.86%	0.98
+| Model               | Accuracy | AUC  |
+|--------------------|---------|------|
+| Naive Bayes         | 97.48%  | 0.98 |
+| Logistic Regression | 94.86%  | 0.98 |
 
-Metrics may vary depending on the dataset and preprocessing.
+*Metrics may vary depending on dataset and preprocessing.*
 
 ---
 
 ## ✨ Future Enhancements
-- Additional ML algorithms (Random Forest, XGBoost)
+- Add more ML algorithms: **Random Forest, XGBoost**  
+- Improve preprocessing and feature engineering  
 
 ---
 
 ## 📥 Download Models
-- Naive Bayes Model: nb_model.joblib
-- Logistic Regression Model: lr_model.joblib
-- TF-IDF Vectorizer: vectorizer. joblib
+- **Naive Bayes Model:** `nb_model.joblib`  
+- **Logistic Regression Model:** `lr_model.joblib`  
+- **TF-IDF Vectorizer:** `vectorizer.joblib`  
 
 ---
 
 ## 📜 License
-This project is for educational and portfolio purposes.
-
-"# email-spam-classifier" 
+This project is for **educational and portfolio purposes**.
