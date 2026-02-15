@@ -83,7 +83,7 @@ spam-classifier/
 - Naive Bayes	97.48%	0.98
 - Logistic Regression	94.86%	0.98
 
-Metrics may vary depending on dataset and preprocessing.
+Metrics may vary depending on the dataset and preprocessing.
 
 ---
 
