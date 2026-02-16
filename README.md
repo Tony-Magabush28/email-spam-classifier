@@ -89,7 +89,7 @@ spam-classifier/
 | Naive Bayes         | 97.48%  | 0.98 |
 | Logistic Regression | 94.86%  | 0.98 |
 
-*Metrics may vary depending on dataset and preprocessing.*
+*Metrics may vary depending on the dataset and preprocessing.*
 
 ---
 
@@ -108,3 +108,8 @@ spam-classifier/
 
 ## 📜 License
 This project is for **educational and portfolio purposes**.
+
+---
+
+## [![Live Demo]
+(https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://email-spam-classifier-jb9adewm5isnfjisgrwogd.streamlit.app/)
