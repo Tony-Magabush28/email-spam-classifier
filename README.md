@@ -112,4 +112,5 @@ This project is for **educational and portfolio purposes**.
 ---
 
 ## [![Live Demo]
-(https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://email-spam-classifier-jb9adewm5isnfjisgrwogd.streamlit.app/)
+(https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]
+(https://email-spam-classifier-jb9adewm5isnfjisgrwogd.streamlit.app/)
